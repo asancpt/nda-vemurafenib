@@ -1,0 +1,30 @@
+# SumatraPDF: modifications to "202429Orig1s000MedR.pdf"
+
+[@meta]
+version = 3.2.10740
+filesize = 868525
+timestamp = 2018-09-27T01:11:58Z
+
+[highlight]
+page = 9
+rect = 72 371 444 17
+color = #ffff60
+opacity = 0.8
+
+[highlight]
+page = 9
+rect = 72 385 460 17
+color = #ffff60
+opacity = 0.8
+
+[highlight]
+page = 9
+rect = 72 398 468 17
+color = #ffff60
+opacity = 0.8
+
+[highlight]
+page = 9
+rect = 72 412 206 17
+color = #ffff60
+opacity = 0.8

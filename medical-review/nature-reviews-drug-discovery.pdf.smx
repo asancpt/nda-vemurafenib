@@ -1,0 +1,78 @@
+# SumatraPDF: modifications to "nature-reviews-drug-discovery.pdf"
+
+[@meta]
+version = 3.2.10740
+filesize = 1363692
+timestamp = 2018-09-27T03:32:21Z
+
+[highlight]
+page = 12
+rect = 57 409 148 8
+color = #ffff60
+opacity = 0.8
+
+[highlight]
+page = 12
+rect = 57 416 106 8
+color = #ffff60
+opacity = 0.8
+
+[highlight]
+page = 12
+rect = 57 423 125 8
+color = #ffff60
+opacity = 0.8
+
+[highlight]
+page = 12
+rect = 57 430 94 9
+color = #ffff60
+opacity = 0.8
+
+[highlight]
+page = 8
+rect = 142 577 200 13
+color = #ffff60
+opacity = 0.8
+
+[highlight]
+page = 8
+rect = 142 588 200 13
+color = #ffff60
+opacity = 0.8
+
+[highlight]
+page = 8
+rect = 142 599 168 13
+color = #ffff60
+opacity = 0.8
+
+[highlight]
+page = 8
+rect = 200 643 142 13
+color = #ffff60
+opacity = 0.8
+
+[highlight]
+page = 8
+rect = 142 654 200 13
+color = #ffff60
+opacity = 0.8
+
+[highlight]
+page = 8
+rect = 142 665 200 13
+color = #ffff60
+opacity = 0.8
+
+[highlight]
+page = 8
+rect = 142 676 200 13
+color = #ffff60
+opacity = 0.8
+
+[highlight]
+page = 8
+rect = 142 687 88 13
+color = #ffff60
+opacity = 0.8
